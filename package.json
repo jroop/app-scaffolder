@@ -1,6 +1,6 @@
 {
   "name": "@jroop/create-app-scaffolder",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "app scaffolding helper",
   "type": "module",
   "bin": "./bin/scaffolder.sh",
