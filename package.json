@@ -1,12 +1,9 @@
 {
-  "name": "@jroop/app-scaffolder",
-  "version": "1.0.0",
+  "name": "@jroop/create-app-scaffolder",
+  "version": "1.0.6",
   "description": "app scaffolding helper",
   "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "bin": "./bin/scaffolder.sh",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jroop/app-scaffolder.git"
